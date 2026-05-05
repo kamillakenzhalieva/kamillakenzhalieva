@@ -25,7 +25,7 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillakenzhalieva&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical&card_width=400)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Kamillakenzhalieva&theme=radical)
 
 ---
 
