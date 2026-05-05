@@ -1,4 +1,4 @@
-# Hi there, I'm Kamilla 👋
+# Kamilla Kenzhalieva - @rdwvs
 
 **Software Developer | Python & Java | Backend & Desktop**
 
