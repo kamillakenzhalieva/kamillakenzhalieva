@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Kamilla 👋
 
-<!--
-**kamillakenzhalieva/kamillakenzhalieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Python & Java | Backend & Desktop**
 
-Here are some ideas to get you started:
+Разрабатываю программные решения разного уровня: от архитектуры RESTful-сервисов и веб-сайтов до прикладного компьютерного софта. Уверенно работаю с данными и системным окружением Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skills
+
+* **Backend & Web:** Python (Django), Java (Spring Boot).
+* **API:** Проектирование и разработка RESTful сервисов (JSON, JWT, API architecture).
+* **Databases:** PostgreSQL (проектирование схем, работа со сложными запросами).
+* **Operating Systems:** Linux (настройка окружения, работа в терминале, Bash).
+* **Software Development:** Разработка десктопного ПО и системных программ на Python.
+
+### 🚀 Experience & Projects
+
+* **Full-stack Web:** Создание веб-сайтов на Django и Spring Boot (от проектирования БД до реализации бизнес-логики).
+* **Desktop Applications:** Разработка автономных компьютерных программ с последующей официальной регистрацией ПО.
+* **Scientific Activity:** Автор научных статей в области разработки ПО и владелец 4-х свидетельств о регистрации ЭВМ.
+
+### 📈 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=kamillakenzhalieva&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact
+* Открыта для интересных задач по разработке бэкенда, веб-сервисов и прикладного ПО.
