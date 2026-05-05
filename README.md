@@ -9,7 +9,7 @@
 ### 🛠 Technical Skills
 
 * **Backend & Web:** Python (Django), Java (Spring Boot).
-* **API:** Проектирование и разработка RESTful сервисов (JSON, JWT, API architecture).
+* **API:** Проектирование и разработка RESTful сервисов (JSON, API architecture).
 * **Databases:** PostgreSQL (проектирование схем, работа со сложными запросами).
 * **Operating Systems:** Linux (настройка окружения, работа в терминале, Bash).
 * **Software Development:** Разработка десктопного ПО и системных программ на Python.
@@ -22,9 +22,11 @@
 
 ### 📈 GitHub Activity
 
-[![Kamilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamillakenzhalieva&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillakenzhalieva&theme=radical)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=kamillakenzhalieva&theme=radical)
 
 ---
 
