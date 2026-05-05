@@ -21,8 +21,9 @@
 * **Scientific Activity:** Автор научных статей в области разработки ПО и владелец 4-х свидетельств о регистрации ЭВМ.
 
 ### 📈 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=kamillakenzhalieva&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Kamillakenzhalieva&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamillakenzhalieva&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 ---
 
