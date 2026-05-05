@@ -23,9 +23,9 @@
 
 ### 📈 GitHub Activity
 
+| | |
 |:---:|:---:|
 | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillakenzhalieva&theme=radical) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical) |
-
 ---
 
 ### 📫 Contact
