@@ -40,7 +40,8 @@
 
 <p align="left">
 <a href="https://t.me/rdwvs" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:kenzhalieva05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://vk.com/khbbuw" target="blank"><img align="center" src="https://img.shields.io/badge/VK-4682B4?style=for-the-badge&logo=vk&logoColor=white" /></a>
+<a href="mailto:kenzhalieva05@mail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
 </p>
 
 *Открыта для интересных задач по разработке бэкенда и веб-сервисов.*
