@@ -20,13 +20,12 @@
 * **Desktop Applications:** Разработка автономных компьютерных программ с последующей официальной регистрацией ПО.
 * **Scientific Activity:** Автор научных статей в области разработки ПО и владелец 4-х свидетельств о регистрации ЭВМ.
 
-### 📈 GitHub Activity
 
 ### 📈 GitHub Activity
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillakenzhalieva&theme=radical)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=kamillakenzhalieva&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillakenzhalieva&layout=compact&theme=radical&card_width=400)
 
 ---
 
